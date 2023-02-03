@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "426691748366",
+    "project_id": "mentorme-d9fad",
+    "storage_bucket": "mentorme-d9fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426691748366:android:2e6c7566bc7e5f3101d25f",
+        "android_client_info": {
+          "package_name": "com.example.mentorme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426691748366-ait6r9t8qfh8p7nnpe65l0k4cppur7i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentorme",
+            "certificate_hash": "94d459756acefaa03308e5d5029dbcbf06406b6d"
+          }
+        },
+        {
+          "client_id": "426691748366-93kromn4v1be16qu8g795o5ijqrt9lp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGLFuioplYx2FD_yaYCElncVAfhSivC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426691748366-93kromn4v1be16qu8g795o5ijqrt9lp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426691748366-kmfb4otj18t2rovb85jl8rdvj229jdgn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentorme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
