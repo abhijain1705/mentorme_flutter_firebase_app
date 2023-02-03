@@ -1,8 +1,8 @@
-Mentor Me
-💡 Inspiration
+# Mentor Me
+##💡 Inspiration
 Whenever we start new thing in life, we always get confused on what to do, where to start, how to do, whom to talk and so on. in this case if we have direct access to people who already had did this in their life, it would be better and thats why I built this platform.
 
-💻 What it does
+## 💻 What it does
 I have build a full stack social media application in flutter and firebase which highly focus on experience so if you have any sort of experience in your life, whether it is travelling to place, reading a book, getting a job, running a business, cracking a exam or etc. you can share it on app and other freshers can consume your content.
 
 features----
@@ -13,19 +13,19 @@ features----
 -> navigation, onboarding screens and proper error handling.
 -> focus on scalability of app with pagination rendering.
 
-⚙️ How we built it
+## ⚙️ How we built it
 Figma: Design
 Flutter: For frontend
 Firebase: For backend
 
-🧠 Challenges we ran into
+## 🧠 Challenges we ran into
 As coding along, I found a lot of challenges in 
 - building a chat functionality.
 - managing database in right way.
 - running crud operations.
-🏅 Accomplishments that we're proud of
+## 🏅 Accomplishments that we're proud of
 Completing the project with all features I wanted to have.
-📖 What we learned
+## 📖 What we learned
 learned a lot in flutter, firebase, riverpod for state management.
-🚀 What's next for MentorMe
+## 🚀 What's next for MentorMe
 I have more ideas such as adding categories in experiences and improving ui that allow user to have different category for this project.
