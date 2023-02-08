@@ -18,6 +18,9 @@ Figma: Design
 Flutter: For frontend
 Firebase: For backend
 
+## Demo
+https://youtu.be/YacAROVf9K0
+
 ## 🧠 Challenges we ran into
 As coding along, I found a lot of challenges in 
 - building a chat functionality.
